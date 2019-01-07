@@ -1,0 +1,22 @@
+span.partie1{
+  background-color: #2574A9;
+  text-align: center;
+}
+fieldset.identité{
+  background-color: #2574A9;
+  margin-top: -20px;
+}
+span.livraison{
+  background-color: #9A12B3;
+}
+fieldset.livraison{
+  background-color: #9A12B3;
+  margin-top: -20px;
+}
+span.reglement{
+  background-color: #DB0A5B;
+}
+fieldset.reglement{
+  background-color: #DB0A5B;
+  margin-top: -20px;
+}
